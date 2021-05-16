@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FC4EFDCA-AFEB-40B5-8C09-D66CDC464969}|Default">
+  <MonoDevelop.Ide.ItemProperties.hola-mundo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hola-mundo/Program.cs">
+    <Files>
+      <File FileName="hola-mundo/Program.cs" Line="9" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hola-mundo" expanded="True">
+            <Node name="hola-mundo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

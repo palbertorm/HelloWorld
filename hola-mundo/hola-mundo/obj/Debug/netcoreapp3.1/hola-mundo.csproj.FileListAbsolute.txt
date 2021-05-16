@@ -1,0 +1,12 @@
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/bin/Debug/netcoreapp3.1/hola-mundo.deps.json
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/bin/Debug/netcoreapp3.1/hola-mundo.runtimeconfig.json
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/bin/Debug/netcoreapp3.1/hola-mundo.runtimeconfig.dev.json
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/bin/Debug/netcoreapp3.1/hola-mundo.dll
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/bin/Debug/netcoreapp3.1/hola-mundo.pdb
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/obj/Debug/netcoreapp3.1/hola-mundo.csprojAssemblyReference.cache
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/obj/Debug/netcoreapp3.1/hola-mundo.AssemblyInfoInputs.cache
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/obj/Debug/netcoreapp3.1/hola-mundo.AssemblyInfo.cs
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/obj/Debug/netcoreapp3.1/hola-mundo.csproj.CoreCompileInputs.cache
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/obj/Debug/netcoreapp3.1/hola-mundo.dll
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/obj/Debug/netcoreapp3.1/hola-mundo.pdb
+/Users/Alberto/Documents/github-c#/HelloWorld/hola-mundo/hola-mundo/obj/Debug/netcoreapp3.1/hola-mundo.genruntimeconfig.cache
